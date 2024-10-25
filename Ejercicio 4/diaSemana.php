@@ -29,4 +29,4 @@ switch ($dia) {
  }
 ?>
 <br>
-<a href="dia_semana.html">Volver</a>
+<a href="diaSemana.html">Volver</a>
